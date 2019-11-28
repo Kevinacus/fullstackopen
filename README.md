@@ -1,2 +1,2 @@
-# fullstackopen
+# fullstackopen course
 https://fullstackopen.com/
